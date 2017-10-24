@@ -1,3 +1,3 @@
-function suma(uno,dos){
+suma <- function(uno,dos){
   return(uno + dos)
 }

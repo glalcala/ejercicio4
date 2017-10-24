@@ -1,3 +1,4 @@
-function divide(uno,dos){
+divide <- function(uno,dos){
   return(uno / dos)
 }
+
